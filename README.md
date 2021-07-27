@@ -3,7 +3,6 @@ Shows a beautiful banner at the start of your terminal
 
 ![Preview](preview.png)
 
----
 ## Requirements 
 * python3 installed
 ## Installation
